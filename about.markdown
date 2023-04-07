@@ -1,17 +1,17 @@
 ---
 layout: page
-title: about me
+title: About Me
 permalink: /about/
 ---
 
-hello!
+Hello!
 
-i'm lucas and i am a software engineer (previously worked as a devops engineer) and i love building things.
-i created this blog so i could have a place to post about my projects / work, share travel stories and also dump
-any thoughts i have onto the internet (i don't have / like social media).
+My name is Lucas, I'm a software engineer (previously worked as a devops engineer) and I love building things.
+I created this blog so I could have a place to post about my projects / work, share my travels and adventures, and also dump
+any thoughts I have onto the internet (I don't have / like social media).
 
-i also enjoy rock climbing, snowboarding (any board sport tbh), electronic music, animation and spending time with friends and family.
+I also enjoy rock climbing, snowboarding (any board sport actually), electronic music, and animation. 
 
-below you can checkout my github and find me on linkedin! 
+Below you can checkout my Github and find me on LinkedIn! 
 
 
