@@ -12,4 +12,4 @@ any thoughts I have onto the internet (I don't have / like social media).
 
 I also enjoy rock climbing, snowboarding (any board sport actually), electronic music, and animation. 
 
-
+Born and raised in Michigan. Filipino American. Currently living the life of a nomad.
