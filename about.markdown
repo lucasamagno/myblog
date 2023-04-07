@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello!
 
-My name is Lucas, I'm a software engineer (previously worked as a devops engineer) and I love building things.
+My name is Lucas, I'm a Software Engineer (previously worked as a DevOps Engineer) and I love building things.
 I created this blog so I could have a place to post about my projects / work, share my travels and adventures, and also dump
 any thoughts I have onto the internet (I don't have / like social media).
 
