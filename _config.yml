@@ -21,7 +21,7 @@
 title: lucas magno
 email: lucasamagno@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  engineer, music nerd, and partial dork
+  my model of reality
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lucasamagno.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
