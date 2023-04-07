@@ -12,6 +12,4 @@ any thoughts I have onto the internet (I don't have / like social media).
 
 I also enjoy rock climbing, snowboarding (any board sport actually), electronic music, and animation. 
 
-Checkout my GitHub and my LinkedIn below.
-
 
