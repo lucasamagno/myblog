@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My Model of Reality
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lucasamagno.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: lucasamagno
 linkedin_username: lucasamagno
 github_username: lucasamagno
 
