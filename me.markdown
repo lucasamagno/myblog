@@ -6,6 +6,8 @@ permalink: /me/
 
 Born and raised in Michigan. Filipino American. Currently based in Miami, FL. 
 
-Software Engineer building stuff for the web. I also do some DevOps things.
+Engineer. I enjoy building things. I've done some web development, business analysis, and DevOps stuff.
 
-Outside of work I enjoy traveling, snowboarding (any board sport actually), and electronic music.
+Outside of work I like traveling, snowboarding (any board sport actually), and electronic music.
+
+Welcome to my mind dump :)
