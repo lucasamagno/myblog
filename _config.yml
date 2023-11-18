@@ -21,7 +21,6 @@
 title: Lucas Magno
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my mind dump.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lucasamagno.com" # the base hostname & protocol for your site, e.g. http://example.com
 
